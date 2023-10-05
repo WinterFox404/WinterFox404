@@ -1,4 +1,4 @@
-Hi, this account its focused on redteam
+Hi, this account its focused on cybersecurity, redteam
 |
 Amateur
 |
