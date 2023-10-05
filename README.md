@@ -4,4 +4,4 @@ Amateur
 |
 CTF Player - Juni0rs
 |
-Any question about a ctf I publish can be answered on English and Spanish.
+Any question about a writeup I publish can be answered on English and Spanish.
